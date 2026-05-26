@@ -12,7 +12,7 @@ Duas saídas de fluxo diferentes  ->   Fluxo único e linear
 -----------------------------------------------------------------
 
 O `break` foi eliminado porque sua lógica foi incorporada na própria
-condição do while, se o número for negativo, o laço simplesmente
+condição do while, se o número for negativo, o laço 
 não continua, sem necessidade de uma saída forçada.
 
 O `continue` foi substituído por uma guarda condicional que nega a
